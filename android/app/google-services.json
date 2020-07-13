@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1000670378579",
+    "firebase_url": "https://fir-start-ccee7.firebaseio.com",
+    "project_id": "fir-start-ccee7",
+    "storage_bucket": "fir-start-ccee7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000670378579:android:ccc0b2b7b7b57d8a47a4a6",
+        "android_client_info": {
+          "package_name": "com.manuelm.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000670378579-pk8g0rk9fkun5h8hcdca2113rl568c9f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manuelm.myapp",
+            "certificate_hash": "39b0d410330430177a0d33d55dd717558ca8dfd7"
+          }
+        },
+        {
+          "client_id": "1000670378579-u217fcephjbp964hem8s438pnjp30cbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfRPLvJL3mXN-boCInphopbVEsCeEPs8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000670378579-u217fcephjbp964hem8s438pnjp30cbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
